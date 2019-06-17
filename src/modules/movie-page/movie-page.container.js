@@ -52,7 +52,7 @@ class MovieBrowser extends React.Component {
         <AppBar title="Movie Browser" />
         <Container>
           <Row>
-            <p>Search will go here</p>
+            <p>Top Movies</p>
           </Row>
           <Row>
             <MovieList movies={movies} isLoading={topMovies.isLoading} />
