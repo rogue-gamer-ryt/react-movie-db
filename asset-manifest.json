@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-movie-db/static/css/main.03591acf.chunk.css",
+    "main.js": "/react-movie-db/static/js/main.067d1909.chunk.js",
+    "main.js.map": "/react-movie-db/static/js/main.067d1909.chunk.js.map",
+    "runtime~main.js": "/react-movie-db/static/js/runtime~main.439a8ae0.js",
+    "runtime~main.js.map": "/react-movie-db/static/js/runtime~main.439a8ae0.js.map",
+    "static/js/2.6cf689d6.chunk.js": "/react-movie-db/static/js/2.6cf689d6.chunk.js",
+    "static/js/2.6cf689d6.chunk.js.map": "/react-movie-db/static/js/2.6cf689d6.chunk.js.map",
+    "index.html": "/react-movie-db/index.html",
+    "precache-manifest.be46f89d10e2286f6d489bd2c2f26baf.js": "/react-movie-db/precache-manifest.be46f89d10e2286f6d489bd2c2f26baf.js",
+    "service-worker.js": "/react-movie-db/service-worker.js",
+    "static/css/main.03591acf.chunk.css.map": "/react-movie-db/static/css/main.03591acf.chunk.css.map"
+  }
+}
